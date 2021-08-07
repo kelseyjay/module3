@@ -16,7 +16,7 @@ padding: 0px;
 margin: 0px;
  }
 
- 
+nav {clear: left;}
 
 nav-item {background-color: teal;}
 navbar-brand {background-color: teal;}
